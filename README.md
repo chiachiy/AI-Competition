@@ -1,0 +1,2 @@
+# AI-Competition
+python trade
